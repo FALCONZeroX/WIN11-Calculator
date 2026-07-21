@@ -10,7 +10,6 @@
   </p>
   <center>
     <img src="img/Dark_Mode_Calc.png" width="300" alt="Dark Mode"/>
-
   </center>
 
 ---
