@@ -165,27 +165,8 @@ Contributions, issues, and feature requests are welcome!
 
 Distributed under the **MIT License**. See `LICENSE` for more information.
 
-**Developed with ❤️ by Falah Fathel**
+**Developed with ❤️ by FALAH FATHEL**
 
 * GitHub: [@FALCONZeroX](https://www.google.com/search?q=https://github.com/FALCONZeroX)
-
-# 🧮 WIN11-Calculator
-
-*تطبيق آلة حاسبة عصري، سريع الاستجابة، ومطابق لتصميم آلة حاسبة Windows 11، مبرمج بلغة C# وبيئة WinForms.*
-
-## ✨ أهم الميزات
-
-* **🎨 واجهة مستخدم دقيقة (Fluent Design):** تم تصميم الواجهة بعناية لتطابق لغة تصميم ويندوز 11 مع مؤثرات التمرير.
-* **🌗 الوضع الليلي والنهاري:** إمكانية التبديل السلس بين الوضع الفاتح والداكن.
-* **📱 تصميم متجاوب:** تتكيف أبعاد الأزرار بسلاسة عند تغيير حجم النافذة.
-* **🔢 محرك عمليات دقيق:** يعالج العمليات الحسابية الأساسية بدقة عالية مع معالجة أخطاء القسمة على صفر.
-
-## 🚀 كيفية التشغيل
-
-1. قم بتحميل المشروع باستخدام الأمر: `git clone https://github.com/FALCONZeroX/WIN11-Calculator.git`
-2. افتح ملف الحل `WIN11-Calculator.sln` باستخدام برنامج **Visual Studio 2022**.
-3. اضغط على `F5` لتشغيل المشروع.
-
-**تم التطوير بواسطة: (Falah Fathel)**
 
 حساب جيتهب: [@FALCONZeroX](https://www.google.com/search?q=https://github.com/FALCONZeroX)
