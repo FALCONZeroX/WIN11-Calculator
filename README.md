@@ -45,7 +45,7 @@
 
 | ☀️ Light Mode | 🌙 Dark Mode |
 | :---: | :---: |
-| <img src="https://via.placeholder.com/400x500.png?text=Light+Mode+Screenshot" width="400" alt="Light Mode"/> | <img src="https://via.placeholder.com/400x500.png?text=Dark+Mode+Screenshot" width="400" alt="Dark Mode"/> |
+| <img src="img/Light_Mode_Calc.png" width="400" alt="Light Mode"/> | <img src="img/Dark_Mode_Calc.png" width="400" alt="Dark Mode"/> |
 | *Clean, bright interface for daytime use.* | *Eye-friendly dark aesthetics for low-light environments.* |
 
 *(Note: Replace the placeholder image links above with your actual repository image paths).*
@@ -56,7 +56,7 @@
 
 | Component | Technology / Tool |
 | --- | --- |
-| **Primary Language** | C# 12 |
+| **Primary Language** | C# |
 | **Framework** | .NET 4.8 |
 | **UI Platform** | Windows Forms (WinForms) |
 | **IDE** | Visual Studio 2026 |
