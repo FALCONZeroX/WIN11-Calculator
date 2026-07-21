@@ -16,7 +16,6 @@
 - [Screenshots](#-screenshots)
 - [Tech Stack](#-tech-stack)
 - [Project Structure](#-project-structure)
-- [Key Code Highlights](#-key-code-highlights)
 - [Getting Started](#-getting-started)
 - [Roadmap](#-roadmap)
 - [Contributing](#-contributing)
@@ -67,35 +66,6 @@ WIN11-Calculator/
 │   └── Program.cs               # Application entry point and bootstrapping
 ├── README.md                    # Project documentation (You are here)
 └── WIN11-Calculator.sln         # Visual Studio Solution file
-
-```
-
----
-
-## 💻 Key Code Highlights
-
-### 🌗 Dynamic Theme Switching
-
-A snippet demonstrating how the application safely loops through form controls to update colors dynamically without needing an application restart.
-
-```csharp
-private void ApplyTheme(bool isDarkMode)
-{
-    Color backColor = isDarkMode ? Color.FromArgb(32, 32, 32) : Color.WhiteSmoke;
-    Color foreColor = isDarkMode ? Color.White : Color.Black;
-    
-    this.BackColor = backColor;
-    
-    foreach (Control ctrl in this.Controls)
-    {
-        if (ctrl is Button btn)
-        {
-            btn.BackColor = isDarkMode ? Color.FromArgb(50, 50, 50) : Color.White;
-            btn.ForeColor = foreColor;
-            // Additional Fluent UI border logic here...
-        }
-    }
-}
 
 ```
 
