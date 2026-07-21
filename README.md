@@ -1,4 +1,3 @@
-<div align="center">
   <h1>🧮 WINDOWS 11 Calculator</h1>
   <p><em>A sleek, modern, and highly responsive Windows 11 Calculator clone built with C# and WinForms.</em></p>
 
