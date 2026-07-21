@@ -75,14 +75,14 @@ WIN11-Calculator/
 
 ### Prerequisites
 
-* [Visual Studio 2022](https://visualstudio.microsoft.com/) (with .NET desktop development workload).
-* [.NET 8.0 SDK](https://dotnet.microsoft.com/download) or higher.
+* [Visual Studio 2022 or higher](https://visualstudio.microsoft.com/) (with .NET desktop development workload).
+* [.NET 4.8 SDK](https://dotnet.microsoft.com/download) or higher.
 
 ### Installation
 
 1. **Clone the repository:**
 ```bash
-git clone [https://github.com/FALCONZeroX/WIN11-Calculator.git](https://github.com/FALCONZeroX/WIN11-Calculator.git)
+git clone https://github.com/FALCONZeroX/WIN11-Calculator.git
 
 ```
 
