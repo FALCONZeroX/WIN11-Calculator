@@ -130,5 +130,3 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 **Developed with ❤️ by FALAH FATHEL**
 
 * GitHub: [@FALCONZeroX](https://www.google.com/search?q=https://github.com/FALCONZeroX)
-
-حساب جيتهب: [@FALCONZeroX](https://www.google.com/search?q=https://github.com/FALCONZeroX)
