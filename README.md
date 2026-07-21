@@ -62,13 +62,22 @@
 
 ```text
 WIN11-Calculator/
-├── SimpleCalculator/
-│   ├── Properties/              # Assembly info, resources, and settings
-│   ├── frmCalc.cs               # Core logic, math engine, and event handlers
-│   ├── frmCalc.Designer.cs      # Auto-generated UI components and layout
-│   └── Program.cs               # Application entry point and bootstrapping
-├── README.md                    # Project documentation (You are here)
-└── WIN11-Calculator.sln         # Visual Studio Solution file
+├── Properties/              # Assembly info and settings
+├── Resources/               # Application resources and assets
+├── Round Button/            # Custom UI controls and components
+├── img/                     # Images used for README documentation
+├── .gitignore               # Git ignore rules
+├── App.config               # Application configuration file
+├── LICENSE                  # MIT License file
+├── Program.cs               # Application entry point and bootstrapping
+├── README.md                # Project documentation (You are here)
+├── WIN11-Calculator.csproj  # C# Project file
+├── WIN11-Calculator.slnx    # Visual Studio Solution file
+├── app.manifest             # Windows application manifest for styling
+├── calc_icon.ico            # Main application icon
+├── frmCalc.Designer.cs      # Auto-generated UI components and layout
+├── frmCalc.cs               # Core logic, math engine, and event handlers
+└── frmCalc.resx             # Form specific resources
 
 ```
 
