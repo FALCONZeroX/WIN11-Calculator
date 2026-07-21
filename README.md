@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Windows_Forms-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="WinForms" />
     <img src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge" alt="MIT License" />
   </p>
-
+<img src="img/Dark_Mode_Calc.png" width="100%" alt="Dark Mode"/>
 ---
 
 ## 📑 Table of Contents
