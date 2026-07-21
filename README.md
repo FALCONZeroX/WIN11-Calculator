@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge" alt="MIT License" />
   </p>
   <div align="center">
-<img src="img/Dark_Mode_Calc.png" width="300" alt="Light Mode"/> 
+<img src="img/Dark_Mode_Calc.png" width="300" alt="Dark Mode"/> 
   </div>
 
 ---
