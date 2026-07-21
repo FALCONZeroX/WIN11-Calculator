@@ -57,9 +57,9 @@
 | Component | Technology / Tool |
 | --- | --- |
 | **Primary Language** | C# 12 |
-| **Framework** | .NET 8.0 |
+| **Framework** | .NET 4.8 |
 | **UI Platform** | Windows Forms (WinForms) |
-| **IDE** | Visual Studio 2022 |
+| **IDE** | Visual Studio 2026 |
 | **Architecture** | Event-Driven / Object-Oriented (OOP) |
 
 ---
@@ -186,6 +186,6 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 2. افتح ملف الحل `WIN11-Calculator.sln` باستخدام برنامج **Visual Studio 2022**.
 3. اضغط على `F5` لتشغيل المشروع.
 
-**تم التطوير بواسطة: فلاح فضل (Falah Fathel)**
+**تم التطوير بواسطة: (Falah Fathel)**
 
 حساب جيتهب: [@FALCONZeroX](https://www.google.com/search?q=https://github.com/FALCONZeroX)
