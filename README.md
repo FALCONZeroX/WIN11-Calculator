@@ -1,9 +1,3 @@
-<div id="english"></div>
-
-<div align="right">
-  <a href="#english">🇬🇧 English</a> | <a href="#arabic">🇸🇦 العربية</a>
-</div>
-
 <div align="center">
   <h1>🧮 WINDOWS 11 Calculator</h1>
   <p><em>A sleek, modern, and highly responsive Windows 11 Calculator clone built with C# and WinForms.</em></p>
@@ -15,7 +9,6 @@
     <img src="https://img.shields.io/badge/Windows_Forms-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="WinForms" />
     <img src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge" alt="MIT License" />
   </p>
-</div>
 
 ---
 
