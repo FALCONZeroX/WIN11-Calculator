@@ -4,21 +4,20 @@
   <!-- Shields.io Badges -->
   <p>
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-    <img src="https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET 8" />
     <img src="https://img.shields.io/badge/Windows_Forms-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="WinForms" />
     <img src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge" alt="MIT License" />
     <img src="https://img.shields.io/badge/.NET_Framework_4.8-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET Framework 4.8" />
     <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" alt="Status Active" />
-<img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge" alt="Maintained" />
-<img src="https://img.shields.io/github/issues/FALCONZeroX/WIN11-Calculator?style=for-the-badge" alt="GitHub Issues" />
-<img src="https://img.shields.io/github/stars/FALCONZeroX/WIN11-Calculator?style=for-the-badge" alt="GitHub Stars" />
+    <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge" alt="Maintained" />
+    <img src="https://img.shields.io/github/issues/FALCONZeroX/WIN11-Calculator?style=for-the-badge" alt="GitHub Issues" />
+    <img src="https://img.shields.io/github/stars/FALCONZeroX/WIN11-Calculator?style=for-the-badge" alt="GitHub Stars" />
     <img src="https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows-11&logoColor=white" alt="Windows 11" />
-<img src="https://img.shields.io/badge/Windows_10-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows 10" />
-<img src="https://img.shields.io/badge/Desktop-App-blue?style=for-the-badge" alt="Desktop App" />
+    <img src="https://img.shields.io/badge/Windows_10-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows 10" />
+    <img src="https://img.shields.io/badge/Desktop-App-blue?style=for-the-badge" alt="Desktop App" />
     <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio" />
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </p>
   <div align="center">
 <img src="img/Dark_Mode_Calc.png" width="300" alt="Dark Mode"/> 
